@@ -3,3 +3,4 @@
 2. Complex Creator![Complex Creator](complex_creator.png)
 3. Triangle![triangle](triangle.png)
 4. Fahrenheit/Celsius![Fahrenheit/Celsius](F-C.png)
+5. Average![avg](avg.png)
