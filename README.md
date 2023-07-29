@@ -4,3 +4,4 @@
 3. Triangle![triangle](triangle.png)
 4. Fahrenheit/Celsius![Fahrenheit/Celsius](F-C.png)
 5. Average![avg](avg.png)
+6. Datatype to Datatype![int to double](int-double.png)![float to int](float-int.png)
