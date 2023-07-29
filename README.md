@@ -8,3 +8,6 @@
 7. Increment/Decrement![inc-dec](inc-dec.png)![inc-dec2](inc-dec2.png)![inc-dec3](inc-dec3.png)
 8. if/else/switch![if/else/switch](if-else-switch.png)
 9. Recursion![recursion](recursion.png)
+10. Reversed_String![rev-string](rev-string.png)
+11. Looped_Factorial![looped factorial](looped_factorial.png)
+12. Ternary_Operator![ter-oper](ter-oper.png)
