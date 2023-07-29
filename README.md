@@ -5,3 +5,6 @@
 4. Fahrenheit/Celsius![Fahrenheit/Celsius](F-C.png)
 5. Average![avg](avg.png)
 6. Datatype to Datatype![int to double](int-double.png)![float to int](float-int.png)![string to int](string-int.png)![bool to string](bool-string.png)![double to string](double-string.png)
+7. Increment/Decrement![inc-dec](inc-dec.png)![inc-dec2](inc-dec2.png)![inc-dec3](inc-dec3.png)
+8. if/else/switch![if/else/switch](if-else-switch.png)
+9. Recursion![recursion](recursion.png)
