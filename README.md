@@ -11,3 +11,4 @@
 10. Reversed_String![rev-string](rev-string.png)
 11. Looped_Factorial![looped factorial](looped_factorial.png)
 12. Ternary_Operator![ter-oper](ter-oper.png)
+13. Swap![swap](swap.png)
