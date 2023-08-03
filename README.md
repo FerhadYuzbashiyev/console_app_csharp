@@ -12,3 +12,4 @@
 11. Looped_Factorial![looped factorial](looped_factorial.png)
 12. Ternary_Operator![ter-oper](ter-oper.png)
 13. Swap![swap](swap.png)
+14. Student![student_class](student_class.png)
