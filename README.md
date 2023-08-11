@@ -14,3 +14,4 @@
 13. Swap![swap](swap.png)
 14. Student![student_class](student_class.png)
 15. Arrays![second_max](second_max.png)![sum_even_nums](sum_even_nums.png)![mult_table](mult_table.png)![avg](avg_task2.png)![min-max](min-max.png)
+16. Strings![String](string.png)
