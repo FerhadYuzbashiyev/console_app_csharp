@@ -16,3 +16,4 @@
 15. Arrays![second_max](second_max.png)![sum_even_nums](sum_even_nums.png)![mult_table](mult_table.png)![avg](avg_task2.png)![min-max](min-max.png)
 16. Strings![String](string.png)
 17. Student Class![Student name, age, gender](name_age_gender.png)
+19. Shapes![Shapes](shapes.png)
